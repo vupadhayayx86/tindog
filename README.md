@@ -1,2 +1,1 @@
-# tindog
-first bootstrap tindog responsive website.
+TinDog Starting Files
